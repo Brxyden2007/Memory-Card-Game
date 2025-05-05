@@ -83,3 +83,9 @@ Simplemente abre index.html en tu navegador.
 
 - 📧 Correo: braydenpoveda@gmail.com
 - 🌐 GitHub: Brxyden2007
+
+### Pagina Web - Juego
+
+## Link: https://brxyden2007-memorygamecards.netlify.app/
+
+# ¡Disfruta el juego!
